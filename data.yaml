@@ -1,0 +1,24 @@
+api_domain: xxx.xxxxx.xxx
+api_log: https://internal.loggingfacility.xxx.com/#/log-viewer/search-id/xxxxx671396//
+api_origin: xx.xxx.162.2
+cert_data_api: xxxx Organization Validation Secure Server CA, domainxxxx,
+  Sectigo RSA Organization Validation Secure Server CA, USERTrust RSA Certification
+  Authority, Mar xx xxxx
+cert_data_web: xxxx Organization Validation Secure Server CA, domainxxxx,
+  Sectigo RSA Organization Validation Secure Server CA, USERTrust RSA Certification
+  Authority, Mar xx xxxx
+cname_api: xxx.ng.xxxx.net
+cname_web: xxx.ng.xxxx.net
+ddos_api: auto
+ddos_web: auto
+initial_vip_check: 171.17.xxx.xx
+splunk_url: https://xxx.lgs.muc.splunk.xxx.net:xxx/en-US/app/xxx_sh_lgs_aere_simple/search?earliest=-60m%40m&latest=now&q=search%20index%3D%22*-aere-*%22%20source%3D%22*%22%20PodName%3D*%20Access_Host%3Dxxx&display.page.search.mode=smart&dispatch.sample_ratio=1&sid=xxx.xxxx
+tr_title: TR [xxx|https://aproach.muc.xxx.net/NotesLink/nl?RNID=xxx]
+  [Imperva JL] Functional validation on [PRD] for [JL]
+virtual_ip: 171.17.xxx.xx:xxx
+virtual_ip_0: The request is reaching the xxx origin VIP.
+web_dom_pub_ip: xxx:xx
+web_domain: xxx
+web_origin: xxx
+xdn_0: Not found.
+xdn_1: Ixxx setting found
